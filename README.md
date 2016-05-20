@@ -1,0 +1,1 @@
+# rails-example-2
